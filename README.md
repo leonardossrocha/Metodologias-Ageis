@@ -1,1 +1,27 @@
-# Metodologias-Ageis
+# Metodologias Ágeis
+
+Curso de 32 horas, oferecido para trabalhar temas importantes e atuais para a área de gestão de projetos. É um contéudo que pode ser útil não só para você que atua na área de tecnologia, mas em todas as áreas onde você precisa se organizar para fazer entregas.  
+Abordam-se tópicos relevantes como:
+
+- Engenharia de software: histórico e importância.
+- Conceitos e práticas da abordagem ágil.
+- Manifesto ágil:princípios e valores.
+- Métodos ágeis: conceitos e práticas.
+- Principais métodos ágeis
+- Cultura ágil: impactos no cotidiano do profissional de TI.
+
+E muito mais. Além, claro, de muita prática que é desenvolvida para que você entenda e absolva esses conhecimentos e possa, de alguma forma, aplicá-los no seu cotidiano.
+
+
+| Conteúdo                                     | Link                  |
+|----------------------------------------------|-----------------------|
+| Apresentação                                 | EM BREVE              |
+| 1º Encontro                                  | EM BREVE              |
+| 2º Encontro                                  | EM BREVE              |
+| 3º Encontro                                  | EM BREVE              |
+| 4º Encontro                                  | EM BREVE              |
+| 5º Encontro                                  | EM BREVE              |
+| 6º Encontro                                  | EM BREVE              |
+| 7º Encontro                                  | EM BREVE              |
+| 8º Encontro                                  | EM BREVE              |
+
