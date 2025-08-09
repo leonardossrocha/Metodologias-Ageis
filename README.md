@@ -13,15 +13,15 @@ Abordam-se tópicos relevantes como:
 E muito mais. Além, claro, de muita prática que é desenvolvida para que você entenda e absolva esses conhecimentos e possa, de alguma forma, aplicá-los no seu cotidiano.
 
 
-| Conteúdo                                     | Link                  |
-|----------------------------------------------|-----------------------|
-| Apresentação                                 | EM BREVE              |
-| 1º Encontro                                  | EM BREVE              |
-| 2º Encontro                                  | EM BREVE              |
-| 3º Encontro                                  | EM BREVE              |
-| 4º Encontro                                  | EM BREVE              |
-| 5º Encontro                                  | EM BREVE              |
-| 6º Encontro                                  | EM BREVE              |
-| 7º Encontro                                  | EM BREVE              |
-| 8º Encontro                                  | EM BREVE              |
+| Conteúdo                           | Link                       |
+|------------------------------------|----------------------------|
+| Apresentação                       | https://abrir.link/oKHkw   |
+| 1º Encontro                        | https://abrir.link/sUtBr   |
+| 2º Encontro                                  | EM BREVE         |
+| 3º Encontro                                  | EM BREVE         |
+| 4º Encontro                                  | EM BREVE         |
+| 5º Encontro                                  | EM BREVE         |
+| 6º Encontro                                  | EM BREVE         |
+| 7º Encontro                                  | EM BREVE         |
+| 8º Encontro                                  | EM BREVE         |
 
