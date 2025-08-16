@@ -17,7 +17,7 @@ E muito mais. Além, claro, de muita prática que é desenvolvida para que você
 |------------------------------------|----------------------------|
 | Apresentação                       | https://abrir.link/oKHkw   |
 | 1º Encontro                        | https://abrir.link/sUtBr   |
-| 2º Encontro                                  | EM BREVE         |
+| 2º Encontro                        | https://abrir.link/iHvkI   |
 | 3º Encontro                                  | EM BREVE         |
 | 4º Encontro                                  | EM BREVE         |
 | 5º Encontro                                  | EM BREVE         |
