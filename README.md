@@ -24,7 +24,7 @@ E muito mais. Além, claro, de muita prática que é desenvolvida para que você
 | 2º Encontro                        | https://abrir.link/iHvkI   |
 | **Aula Bônus**                     | https://abrir.link/PQTcH   |
 | 3º Encontro                        | https://abrir.link/TwPAe   |
-| 4º Encontro                                  | EM BREVE         |
+| 4º Encontro                        | https://abrir.link/vDodN   |
 | 5º Encontro                                  | EM BREVE         |
 | 6º Encontro                                  | EM BREVE         |
 | 7º Encontro                                  | EM BREVE         |
