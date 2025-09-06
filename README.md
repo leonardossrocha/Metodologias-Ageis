@@ -33,5 +33,5 @@ E muito mais. Além, claro, de muita prática que é desenvolvida para que você
 
 ## Autor
 
-Professor Leonardo Rocha - [@lkr15tech](https://www.github.com/profleonardorocha)
+Professor Leonardo Rocha - [@lkr15tech](https://www.github.com/profleonardorocha)  
 [Leonardo Rocha](https://www.github.com/leonardossrocha)
