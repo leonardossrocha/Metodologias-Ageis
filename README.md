@@ -27,6 +27,7 @@ E muito mais. Além, claro, de muita prática que é desenvolvida para que você
 | 4º Encontro                        | https://abrir.link/vDodN   |
 | 5º Encontro                        | https://abrir.link/blBTU   |
 | 6º Encontro                        | https://abrir.link/Rcyst   |
+| **Atividade**                      | https://abrir.link/SLFkP   |
 | 7º Encontro                                  | EM BREVE         |
 | 8º Encontro                                  | EM BREVE         |
 
