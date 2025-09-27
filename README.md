@@ -3,7 +3,7 @@
 
 ## Descrição 
 
-Curso de 32 horas, oferecido para trabalhar temas importantes e atuais para a área de gestão de projetos. É um contéudo que pode ser útil não só para você que atua na área de tecnologia, mas em todas as áreas onde você precisa se organizar para fazer entregas.  
+Curso de 32 horas, distribuídas em 8 encontros de 4h, oferecido para trabalhar temas importantes e atuais para a área de gestão de projetos. É um contéudo que pode ser útil não só para você que atua na área de tecnologia, mas em todas as áreas onde você precisa se organizar para fazer entregas.  
 Abordam-se tópicos relevantes como:
 
 - Engenharia de software: histórico e importância.
